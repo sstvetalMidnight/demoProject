@@ -1,0 +1,8 @@
+.vs
+*.uasset
+*.sln
+DrivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+Build/
